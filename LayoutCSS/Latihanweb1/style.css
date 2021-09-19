@@ -1,0 +1,22 @@
+.wrapper {
+	background: grey;
+}
+.container{
+	width: 1200px;
+	margin: auto;
+}
+.sidebar{
+	width: 400px;
+	height: 600px;
+	background: red;
+	float: left;
+}
+.content{
+	width: 800px;
+	height: 600px;
+	background: blue;
+	float: right;
+}
+.clear{
+	clear: both;
+}
